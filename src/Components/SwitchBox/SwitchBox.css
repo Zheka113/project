@@ -1,0 +1,4 @@
+.SwitchBox{
+    grid-area: Switch;
+    border: 1px solid black;
+}

@@ -1,0 +1,11 @@
+.App div{
+  margin: 5px;
+}
+.App{
+  display: grid;
+  grid-template-areas:"Header Header"
+                      "NavBar Switch" 
+                      "Footer Footer";
+  grid-template-columns: 3fr 9fr;  
+  grid-template-rows: 2fr 10fr 2fr;
+}

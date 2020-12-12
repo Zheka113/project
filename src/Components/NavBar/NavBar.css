@@ -1,0 +1,7 @@
+.NavBar{
+    grid-area: NavBar;
+    border: 1px solid black;
+}
+.selected{
+    color: rgb(255, 0, 0);
+}
